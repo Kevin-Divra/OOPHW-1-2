@@ -121,7 +121,7 @@ classDiagram
     }
     
     SuperAdmin --|> User
-    Admin TU --|> User
+    Admin --|> User
     Mahasiswa --|> User
     Dosen --|> User
 ```
